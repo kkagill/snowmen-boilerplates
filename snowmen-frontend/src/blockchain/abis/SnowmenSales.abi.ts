@@ -170,6 +170,11 @@ export const SNOWMEN_SALES_ABI: any = [
         "internalType": "uint256",
         "name": "amount",
         "type": "uint256"
+      },
+      {
+        "internalType": "uint8",
+        "name": "quantity",
+        "type": "uint8"
       }
     ],
     "name": "buyItem",
